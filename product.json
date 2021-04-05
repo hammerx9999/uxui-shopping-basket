@@ -1,0 +1,37 @@
+[{
+    "id":"1",
+    "name":"NOTEBOOK (โน้ตบุ๊ค) ACER NITRO 5 AN515-43-R1QY (OBSIDIAN BLACK)",
+    "price": "735.5",
+    "image":"https://www.jib.co.th/img_master/product/medium/20210302160321_43933_287_1.jpg?v=439331614737892"
+},
+{
+    "id":"2",
+    "name":"NOTEBOOK (โน้ตบุ๊ค) LENOVO LGEION 7 16ACHG6 82N6000YTA (STORM GREY)",
+    "price": "2,876",
+    "image":"https://www.jib.co.th/img_master/product/medium/2021040217472046139_1.jpg?v=461391617362151"
+},
+{
+    "id":"3",
+    "name":"NOTEBOOK (โน้ตบุ๊ค) MSI GF63 THIN 10SC-061THㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+    "price": "924.5",
+    "image":"https://www.jib.co.th/img_master/product/medium/2021031816014545819_1.jpg?v=458191616639624"
+},
+{
+    "id":"4",
+    "name":"NOTEBOOK (โน้ตบุ๊ค) ACER NITRO 5 AN515-44-R28F (OBSIDIAN BLACK)  ",
+    "price": "860.5",
+    "image":"https://www.jib.co.th/img_master/product/medium/20201027142126_42857_287_1.jpg?v=428571616579855"
+},
+{
+    "id":"5",
+    "name":"NOTEBOOK (โน้ตบุ๊ค) HP OMEN 15-EK0122TXㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+    "price": "1,276.5",
+    "image":"https://www.jib.co.th/img_master/product/medium/20210318163937_45794_352_1.jpg?v=457941616117883"
+},
+{
+    "id":"6",
+    "name":"NOTEBOOK (โน้ตบุ๊ค) ACER PREDATOR HELIOS 300 PH317-54-7338 (BLACK)",
+    "price": "1,916",
+    "image":"https://www.jib.co.th/img_master/product/medium/2020091911101342712_1.png?v=427121616660086"
+}
+]
